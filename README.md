@@ -1,10 +1,9 @@
 ### **Bem vindo!**
 #### Olá, meu nome é Raul
 
-- 💼 Hoje trabalho com automação de processos na Linha Piloto de Eixos, na Mercedes Benz Brasil LTDA.
+- 💼 Hoje trabalho como Analista de Dados, na Mercedes Benz Brasil LTDA.
 - 📚 Estou estudando Engenharia de Controle e Automação
 - 💻 Faculdade: Instituto Mauá de Tecnologia
-- 😄 Pronome: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raul3369&show_icons=true&theme=great-gatsby)
 
